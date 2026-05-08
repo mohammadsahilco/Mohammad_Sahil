@@ -16,15 +16,22 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 | **Spreadsheets & Automation** | Advanced Excel (VBA, UserForms, Power Query, Pivot Tables), Google Sheets (Apps Script) |
 | **Databases** | MySQL, SQL (Joins, Subqueries, Aggregations) |
 | **Analytics** | Microsoft AI-assisted Analytics, RCM Analysis, KPI Design |
+| **Tally Prime** | Billing Operations, Delivery Notes, Sales Invoices |
 | **Other** | MIS Reporting, ETL, Dashboard UI/UX, Stakeholder Reporting, Data Cleaning |
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=Google-Sheets&logoColor=white) ![VBA](https://img.shields.io/badge/-VBA-217346?logo=Microsoft&logoColor=white)
 
 ---
 
-## 💼 Work Experience  
+## 💼 Work Experience
 
-### 🔹  Data Analyst Intern — Rows & Columns · Calicut, Kerala
+### 🔹  Billing Analyst — LUQU BABY · Jeddah, Saudi arabia • May 2026 — present
+
+- Prepared and analyzed sales invoices and delivery notes to ensure accurate billing and timely processing.
+- Monitored billing records, verified transaction details, and resolved discrepancies to maintain data accuracy.
+- Coordinated with sales, logistics, and accounts teams to support smooth invoicing and customer order fulfillment.
+
+### 🔹  Data Analyst Intern — Rows & Columns · Calicut, Kerala • Aug 2025 — Feb 2026
 
 - Performed end-to-end data preparation using Excel, SQL, Power BI and Tableau.
 - Streamlined reporting workflows with automation and reusable templates.
