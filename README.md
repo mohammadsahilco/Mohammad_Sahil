@@ -25,13 +25,13 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
 ## 💼 Work Experience
 
-### 🔹  Billing Analyst — LUQU BABY · Jeddah, Saudi arabia • May 2026 — present
+### 🔹  Billing Analyst - LUQU BABY · Jeddah, Saudi arabia • May 2026 - present
 
 - Prepared and analyzed sales invoices and delivery notes to ensure accurate billing and timely processing.
 - Monitored billing records, verified transaction details, and resolved discrepancies to maintain data accuracy.
 - Coordinated with sales, logistics, and accounts teams to support smooth invoicing and customer order fulfillment.
 
-### 🔹  Data Analyst Intern — Rows & Columns · Calicut, Kerala • Aug 2025 — Feb 2026
+### 🔹  Data Analyst Intern - Rows & Columns · Calicut, Kerala • Aug 2025 - Feb 2026
 
 - Performed end-to-end data preparation using Excel, SQL, Power BI and Tableau.
 - Streamlined reporting workflows with automation and reusable templates.
