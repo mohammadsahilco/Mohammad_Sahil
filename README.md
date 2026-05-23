@@ -134,7 +134,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="sahil's resume 2026.pdf">Download my CV</a></td>
+      <td><a href="sahils resume 2026.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
